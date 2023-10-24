@@ -1,4 +1,4 @@
-# Exercicioconstraint3
+# Exercicioconstraint2
 Criar, em SQL Server, considerando o domínio de uma mecânica, conforme modelado:
 
 ![image](https://github.com/ByancaMatos01/Exercicioconstraint3/assets/122841376/4845a231-921c-485d-8da8-24cd40feaa8a)
